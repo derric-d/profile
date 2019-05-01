@@ -140,6 +140,16 @@ ul, .social_icon {
   list-style: none;
   padding-left: 0;
   display: inline-block;
+  font-size: 15;
+}
+
+li {
+  display: inline-block;
+}
+
+i {
+  font-size: 50px;
+  padding: 20px;
 }
 
 .container {
