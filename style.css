@@ -143,6 +143,12 @@ ul, .social_icon {
   font-size: 15;
 }
 
+i:hover {
+  color: rgb(70,70,70);
+  transition: all 2s ease;
+  font-size: 60px;
+}
+
 li {
   display: inline-block;
 }
